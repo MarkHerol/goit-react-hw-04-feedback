@@ -1,0 +1,10 @@
+.label{
+    margin-top: 10px;
+}
+
+.value{
+    font-weight: bold;
+}
+.feedback{
+    border: 1px solid;
+}
